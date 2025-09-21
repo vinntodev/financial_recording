@@ -1,0 +1,15 @@
+.dart_tool
+.idea
+.vscode
+build
+linux
+macos
+test
+web
+windows
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+config.json
+flutter_project.iml
+pubspec.lock
