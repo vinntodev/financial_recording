@@ -66,6 +66,7 @@ Aplikasi manajemen keuangan pribadi yang dibangun dengan Flutter untuk membantu 
 - Switch untuk memilih tipe (Income/Expense)
 - Input jumlah, kategori, tanggal, dan detail
 - Validasi form
+![image_form_transaction](https://github.com/vinntodev/financial_recording/blob/b449830a5774edd1cc9dcdb21765991d53cded71/add-transaction.png)
 
 ### Manajemen Kategori
 - Daftar kategori berdasarkan tipe
@@ -123,5 +124,6 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 ##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
 
