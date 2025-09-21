@@ -60,6 +60,7 @@ Aplikasi manajemen keuangan pribadi yang dibangun dengan Flutter untuk membantu 
 - Ringkasan pendapatan dan pengeluaran
 - Daftar transaksi berdasarkan tanggal
 - Tombol aksi untuk edit/hapus transaksi
+![image_dashboard](https://github.com/vinntodev/financial_recording/blob/6849f58225a4bc92958190a2a2c37a0bdf0517b6/home-page.png)
 
 ### Form Transaksi
 - Switch untuk memilih tipe (Income/Expense)
@@ -122,4 +123,5 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 ##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
 
